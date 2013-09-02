@@ -1,9 +1,7 @@
 .......................................................................................................................					A Hidden Markov Model Based Part-Of-Speech Tagger for Hindi Language
 .......................................................................................................................
 
-Author	:		Chavati Krishna Chaitanya
-
-Mentor	:		Ms. Keerthi Reddy , Senior Software Engineer ,Uniphore Systems
+Author	:		Krishna Chaitanya Chavati(chaithuzz2)
 
 .......................................................................................................................
 
@@ -35,10 +33,8 @@ Known Bugs and enhancements
 
 ........................................................................................................................
 
-1. Due to limited corpus unigram works better than trigram. 
+1. Works better with language model containing low number of tags and large training data.
 
-2. Works better with language model containing low number of tags and large training data.
+2. Scope for including Smoothing techniques. In this case the increase in precision is very low and is almost the same.
 
-3. Scope for including Smoothing techniques. In this case the increase in precision is very low and is almost the same.
-
-4. Can be made Language Independent.
+3. Can be made Language Independent.
