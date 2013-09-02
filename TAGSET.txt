@@ -1,0 +1,47 @@
+NN	-	Noun 
+
+NNP - Proper Noun
+
+PRP - Pronoun
+
+VAUX- Verb Auxiliary 
+
+JJ	-	Adjective 
+
+RB	-	Adverb
+
+RP	- Particle
+
+CC	-	Conjuncts
+
+VH	-	Interjection
+
+PREP- Postposition
+
+QF	-	Quantifiers
+
+QFNUM-Number
+
+VFM	-	Verb Finite math
+
+VJJ	-	Verb Non-Finite Adjectival
+
+VRB	-	Verb Non-Finite Adverbial 
+
+VNN	-	verb Non-Finite Nominal
+
+QW	-	Question words 
+
+NLOC	-	Noun Location 
+
+INTF	-	Intensifier
+
+NEG	-	Negative
+
+NNC	-	Compound Nouns
+
+NNPC	-	Compound Proper Nouns
+
+NVB , JVB , RBVB	-	Light verbs 
+
+SYM	-	Special
